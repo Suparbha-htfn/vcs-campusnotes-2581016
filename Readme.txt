@@ -6,12 +6,12 @@
 
 ## About the Project
 
-CampusNotes is a simple project designed to organize academic notes subject-wise. It helps students keep their study material organized and easy to access.
+CampusNotes is a platform designed to organize academic notes subject-wise. It helps students keep their study material organized and easy to access.
 
 ## Features
 
 - Subject-wise notes organization
-- Easy access to study material
+- Quick and easy access to study materials
 - Reusable notes template
 - Organized folder structure
 
